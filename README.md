@@ -3,8 +3,13 @@
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
+## THEORY
+
+The goal of this project is to develop a Long Short-Term Memory (LSTM) based model to perform Named Entity Recognition (NER) on text data. The model will identify and classify words in a sentence into predefined categories such as Person, Organization, Location, Date, Time, Money, Percent, Facility, and GPE. Using the NER dataset containing Word, POS, and Tag columns, the model will be trained to recognize entities and predict the correct tags for unseen text.
+
 ## Problem Statement and Dataset
-<img width="1300" height="796" alt="image" src="https://github.com/user-attachments/assets/097f7b38-c0e9-4a9f-aa69-2cd226c326d6" />
+
+<img width="618" height="763" alt="DATASET 6 SS1" src="https://github.com/user-attachments/assets/900bc91d-0061-475b-bab5-4cdedc7e811e" />
 
 
 ## DESIGN STEPS
